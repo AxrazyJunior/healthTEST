@@ -1,0 +1,10 @@
+class Question():
+	def __init__(self,qestion,right_answer,wrong1,wronh2,wrong3):
+		self.qestion = qestion
+		self.right_answer = right_answer
+		self.wrong1 = wrong1
+		self.wronh2 = wronh2
+		self.wrong3 = wrong3
+gestion_list = []
+qustion_list.append(Qustion('Что  выйдет в 2025','Gta6','Hilflife3','Шхматы 2','Шашки2,'Dota3'))
+qustion_list.append(Qustion('Насколь
